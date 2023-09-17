@@ -1,0 +1,10 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" id="blobSvg">
+  <defs>
+    <clipPath id="shape">
+      <path id="blob" d="M454.5,310.5Q438,371,384,398Q330,425,274,449Q218,473,186.5,416.5Q155,360,127,
+      327Q99,294,104,251.5Q109,209,102.5,140.5Q96,72,157,50.5Q218,29,282,34.5Q346,40,360,105.5Q374,171,422.5,
+      210.5Q471,250,454.5,310.5Z" fill="#d1d8e0"></path>
+    </clipPath>
+  </defs>
+  <image x="0" y="0" width="100%" height="100%" clip-path="url(#shape)" xlink:href="/assets/images/tecnologia-informacion-empresas.jpg" preserveAspectRatio="none"></image>
+</svg>
